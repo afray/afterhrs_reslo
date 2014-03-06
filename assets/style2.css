@@ -1,0 +1,51 @@
+body
+
+{
+background-color:#FFE4E1;
+font-family: Georgia;
+border: dotted;
+padding: 5px;
+border-width:5px;
+border-color:#696969; 
+color: #FFFAFA;
+
+
+
+}
+
+p
+
+{
+	color:#000000;
+}
+h1
+{
+	font-size:55px;
+	font-family: Georgia; 
+	text-align: center;
+	color:#696969;
+	
+	
+}
+
+h2
+{
+	color:#696969;
+
+}
+
+body
+{
+	text-align: center;
+	font-family: Georgia;
+	font-size: 15px;
+
+}
+
+ul
+{
+	text-align: center;
+	list-style: none;
+	font-size: 18px;
+	font-color:#808080;
+}
